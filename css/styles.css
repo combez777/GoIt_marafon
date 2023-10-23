@@ -22,3 +22,37 @@ body {
     box-sizing: border-box;
     width: 370px;
 }
+
+.sidebar_content {
+    padding: 40px 40px 40px;
+}
+
+.contacts_titles{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.CE {
+color: #161D2A;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+margin-right: 8px;
+}
+
+.contacts_link{
+color: #2979FF;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-decoration-line: underline;
+}
+
+.contacts_item{
+margin-top: 0px;
+margin-bottom: 4px;
+}
