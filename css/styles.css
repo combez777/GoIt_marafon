@@ -13,6 +13,9 @@ ul, ol{
     background-color: #ffffff;
     display: flex;
     flex-direction: row-reverse;
+    width: 1200;
+    margin-left: auto;
+    margin-right: auto;
 }
 .my-content {
     padding: 88px 80px 40px 80px;
@@ -249,4 +252,8 @@ margin-bottom: 12px;
 
 .education_separator{
     color: #000;
+}
+
+.work_exp{
+    margin-bottom: 40px;
 }
